@@ -11,7 +11,7 @@ I focused a lot of my time in the Tax Data Set, as this set had gender, church a
 
 Salem was notoriously cantankerous. There was friction between Salem and the other townships and churches. The Puritans didn't like Catholics or Quakers, and according to the historical record, Salem Villagers were a litigious group on the whole.
 
-Samuel Paris was the Nexus point of the outbreak. As fate would have it, he was the head of the first household to produce an accusation of witchcraft. Her name was Tituba Indian (1). An enslaved woman that Samuel purchased while still living in Barbados. Samuel's children accused her of longtime magical exploits, to which she confessed when 'questioned'. Her husband, John Indian joined forces with Samuel's children and began accusing other villagers of witchraft. And it just sort of bloomed outwards from there.
+Samuel Paris was the Nexus point of the outbreak. As fate would have it, he was the head of the first household to produce an accusation of witchcraft. Her name was Tituba Indian. An enslaved woman that Samuel purchased while still living in Barbados. Samuel's children accused her of longtime magical exploits, to which she confessed when 'questioned'. Her husband, John Indian joined forces with Samuel's children and began accusing other villagers of witchraft. And it just sort of bloomed outwards from there.
 
 It stopped as quickly as it began In October 1692.
 
