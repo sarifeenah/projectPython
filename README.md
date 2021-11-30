@@ -17,4 +17,17 @@ It stopped as quickly as it began In October 1692.
 
 ![accused_fig.1](https://user-images.githubusercontent.com/90716926/144075411-dc5cc991-bb97-4393-8b6e-7211f7152168.png)
 
+#Main Take Aways:
+the histogram follows a bimodal pattern, suggesting we are looking at two mirroring outbreaks. The distribution plot below, shows us two major sectors driving the outbreak. 
+![distribution_fig1](https://user-images.githubusercontent.com/90716926/144080766-fa09ab4f-db2c-4bfc-ba5c-d9fb624b8b6c.png)
 
+Sentiments by voter vs sentiments by taxpayer's show an inversed pattern.
+![sentiment_by_voter_fig1](https://user-images.githubusercontent.com/90716926/144081321-ac2ab289-3db3-456d-a0a3-5c9728f5866c.png)
+![sentiment_by_taxpayer_fig1](https://user-images.githubusercontent.com/90716926/144081303-faddf525-f1b8-4307-8c8e-000522fc7029.png)
+
+It appears there were two major groups driving the outbreak.
+Those with political power and money.  One one side they were pro Parris, on the other were anti-Parris.
+The LARGEST group, were the least economically advantaged, least engaged in politics and least likely to care about Samuel Parris.
+Paradoxically - those who threw the most support behind Parris were unaffiliated with the church in question.  Church goers were more likely to oppose him than support him.  There fore the Null Hypothesis, that church membership would predict support for Parris, was rejected with a huge p-value of 9.
+
+It appears while much has changed over the past 300 years, somethings remain the same.
