@@ -31,3 +31,8 @@ The LARGEST group, were the least economically advantaged, least engaged in poli
 Paradoxically - those who threw the most support behind Parris were unaffiliated with the church in question.  Church goers were more likely to oppose him than support him.  There fore the Null Hypothesis, that church membership would predict support for Parris, was rejected with a huge p-value of 9.
 
 It appears while much has changed over the past 300 years, somethings remain the same.
+Those of us with the most to lose are sandwiched between those with money, and power and one third and very important variable, time.
+When the largest portion of a populace are si,mply trying to make ends meet, they do not have TIME to engage politically in order to safeguard their rights.
+
+One last note, the largest group opposing Samuel Parris were the boys of the village.  Youths below age 20, mostly teenagers with no affiliation to the church.
+These were the non-conformists of the era, lacking in political power but quite capable of rabble rousing.  These boys, are my people :)
