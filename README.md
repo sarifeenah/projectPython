@@ -26,7 +26,7 @@ Sentiments by voter vs sentiments by taxpayer's show an inversed pattern.
 ![sentiment_by_taxpayer_fig1](https://user-images.githubusercontent.com/90716926/144081303-faddf525-f1b8-4307-8c8e-000522fc7029.png)
 
 It appears there were two major groups driving the outbreak.
-Those with political power and money.  One one side they were pro Parris, on the other were anti-Parris.
+Those with political power and money.  On one side they were pro Parris, on the other, they were anti-Parris.
 The LARGEST group, were the least economically advantaged, least engaged in politics and least likely to care about Samuel Parris.
 Paradoxically - those who threw the most support behind Parris were unaffiliated with the church in question.  Church goers were more likely to oppose him than support him.  There fore the Null Hypothesis, that church membership would predict support for Parris, was rejected with a huge p-value of 9.
 
