@@ -1,6 +1,6 @@
 # EDA of the 1692 Salem Witch Trials using Python3
-### Explore my Code [Jupyter Exploration Notebook](https://github.com/slaing77/salem-witch-trials/blob/main/salemNotebook.ipynb)
-### Explore my Figures and Visualizations [Jupyter Figures Notebook](https://github.com/slaing77/salem-witch-trials/blob/main/salemFigures.ipynb).
+### Explore my Code [Jupyter EDA](https://github.com/slaing77/salem-witch-trials/blob/main/salemNotebook.ipynb)
+### Explore my Visualizations [Jupyter Figures](https://github.com/slaing77/salem-witch-trials/blob/main/salemFigures.ipynb).
 
 
 I found this data set on Kaggle, uploaded by Rachel Tatman, who credits Professor Richard Latner of Tulane University for making this material available. There are 8 .csv files providing quantitative data listing names of all 152 accused, focusing on the geographic spread of the outbreak, the socio-economic conditions of the populace, and the chronology of events.
