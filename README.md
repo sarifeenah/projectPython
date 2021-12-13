@@ -1,4 +1,7 @@
 # EDA of the 1692 Salem Witch Trials using Python3
+## Explore my Code [Jupyter Exploration Notebook](https://github.com/slaing77/salem-witch-trials/blob/main/salemNotebook.ipynb)
+## Explore my Figures and Visualizations [Jupyter Figures Notebook](https://github.com/slaing77/salem-witch-trials/blob/main/salemFigures.ipynb).
+
 
 I found this data set on Kaggle, uploaded by Rachel Tatman, who credits Professor Richard Latner of Tulane University for making this material available. There are 8 .csv files providing quantitative data listing names of all 152 accused, focusing on the geographic spread of the outbreak, the socio-economic conditions of the populace, and the chronology of events.
 
@@ -35,6 +38,3 @@ When the largest portion of a populace are si,mply trying to make ends meet, the
 
 One last note, the largest group opposing Samuel Parris were the boys of the village.  Youths below age 20, mostly teenagers with no affiliation to the church.
 These were the non-conformists of the era, lacking in political power but quite capable of rabble rousing.  These boys, are my people :)
-
-## Explore my Code in Jupyter Notebook [Jupyter Exploration Notebook](https://github.com/slaing77/salem-witch-trials/blob/main/salemNotebook.ipynb)
-## Explore Figures and Visualizations in Jupyter Notebook [Jupyter Figures Notebook](https://github.com/slaing77/salem-witch-trials/blob/main/salemFigures.ipynb).
