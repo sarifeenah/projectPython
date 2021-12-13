@@ -35,3 +35,6 @@ When the largest portion of a populace are si,mply trying to make ends meet, the
 
 One last note, the largest group opposing Samuel Parris were the boys of the village.  Youths below age 20, mostly teenagers with no affiliation to the church.
 These were the non-conformists of the era, lacking in political power but quite capable of rabble rousing.  These boys, are my people :)
+
+
+Explore Figures and Visualizations  [Jupyter Notebook](https://github.com/slaing77/salem-witch-trials/blob/main/salemFigures.ipynb).
